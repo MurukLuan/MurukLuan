@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Me chamo Luan, seja bem vindo ao meu GitHub!
+## Me chamo Luan, seja bem vindo ao meu GitHub!
 
 <img src="/img/minha_figurinha_ok.webp">
 
