@@ -2,7 +2,7 @@
 
 ## Me chamo Luan, seja bem vindo ao meu GitHub!
 
-<img src="/img/minha_figurinha_ok.webp">
+<img src="minha_figurinha_ok.webp">
 
 ## Contatos:
 
